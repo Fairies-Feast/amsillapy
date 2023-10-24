@@ -1,10 +1,8 @@
 from setuptools import setup
 
-from my_pip_package import __version__
-
 setup(
     name='amsillapy',
-    version=__version__,
+    version=1.00,
 
     url='https://github.com/Fairies-Feast/amsillapy',
     author='Will Caesar',
